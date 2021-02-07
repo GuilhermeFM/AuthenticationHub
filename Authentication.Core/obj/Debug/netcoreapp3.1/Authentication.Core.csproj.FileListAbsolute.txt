@@ -1,8 +1,0 @@
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\bin\Debug\netcoreapp3.1\Authentication.Core.deps.json
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\bin\Debug\netcoreapp3.1\Authentication.Core.dll
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\bin\Debug\netcoreapp3.1\Authentication.Core.pdb
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\obj\Debug\netcoreapp3.1\Authentication.Core.AssemblyInfoInputs.cache
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\obj\Debug\netcoreapp3.1\Authentication.Core.AssemblyInfo.cs
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\obj\Debug\netcoreapp3.1\Authentication.Core.csproj.CoreCompileInputs.cache
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\obj\Debug\netcoreapp3.1\Authentication.Core.dll
-C:\Users\guifr\Documents\GitHub\Authentication\Authentication.Core\obj\Debug\netcoreapp3.1\Authentication.Core.pdb
